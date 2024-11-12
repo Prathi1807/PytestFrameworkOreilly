@@ -1,0 +1,26 @@
+2024-07-30 00:01:16,995 : INFO : test_e2e : Gettig all card titles
+2024-07-30 00:01:17,706 : INFO : test_e2e : Entering country name as Ind
+2024-07-30 00:04:04,257 : INFO : test_e2e : Gettig all card titles
+2024-07-30 00:04:05,541 : INFO : test_e2e : Entering country name as Ind
+2024-07-30 00:06:11,995 : INFO : test_formSubmission : getting personal information
+2024-07-30 00:06:13,542 : INFO : test_formSubmission : get success message
+2024-07-30 00:06:13,911 : INFO : test_formSubmission : getting personal information
+2024-07-30 00:06:13,911 : INFO : test_formSubmission : getting personal information
+2024-07-30 00:06:14,541 : INFO : test_formSubmission : get success message
+2024-07-30 00:06:14,541 : INFO : test_formSubmission : get success message
+2024-07-30 00:06:19,399 : INFO : test_e2e : Gettig all card titles
+2024-07-30 00:06:20,167 : INFO : test_e2e : Entering country name as Ind
+2024-08-15 19:45:53,585 : INFO : test_formSubmission : getting personal information
+2024-08-15 19:45:57,977 : INFO : test_e2e : Gettig all card titles
+2024-08-15 19:45:58,665 : INFO : test_e2e : Entering country name as Ind
+2024-08-15 19:46:04,440 : INFO : test_e2e : text received from application is Success!
+2024-08-15 19:47:43,523 : INFO : test_formSubmission : getting personal information
+2024-08-15 19:47:44,165 : INFO : test_formSubmission : get success message
+2024-08-15 19:47:48,149 : INFO : test_e2e : Gettig all card titles
+2024-08-15 19:47:48,814 : INFO : test_e2e : Entering country name as Ind
+2024-08-15 19:47:54,635 : INFO : test_e2e : text received from application is Success!
+2024-08-15 19:49:32,226 : INFO : test_formSubmission : getting personal information
+2024-08-15 19:49:32,863 : INFO : test_formSubmission : get success message
+2024-08-15 19:49:36,453 : INFO : test_e2e : Gettig all card titles
+2024-08-15 19:49:37,088 : INFO : test_e2e : Entering country name as Ind
+2024-08-15 19:49:42,889 : INFO : test_e2e : text received from application is Success!
