@@ -17,7 +17,7 @@ class TestOne(BaseClass):
         homepage= Homepage(self.driver) #actual driver
         checkoutpage=homepage.shopItems()
         #checkoutpage = CheckOutpage(self.driver)
-        log.info('Gettig all card titles')
+        log.info('Getting all card titles')
         cards = checkoutpage.getCardTitles()
         i = -1
         for card in cards:
